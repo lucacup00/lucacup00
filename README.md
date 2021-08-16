@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lucacup00
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning ...php and sql
+- 🌱 I’m currently learning ...react native 
 - 💞️ I’m looking to collaborate on ...some companies
 - 📫 How to reach me ...create a money app
 
